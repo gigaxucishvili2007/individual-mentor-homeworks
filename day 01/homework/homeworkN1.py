@@ -28,16 +28,14 @@ print(12 > 15)answer: False
 სათამაშოს მოგება:🦖
 
 """
-num = int(input('enter any number'))
-if num > 10:
-    print("shen moige dinozavri")
-elif num < 10:
-    print("ver moige samwuxarod")
-elif num != 2:
-    print("kidev scade")
-elif num != 3:
-    print("kidev erti shansi gakvs")
-else:
-    print("sxvadros scade")
-
-
+# num = int(input('enter any number'))
+# if num > 10:
+#     print("shen moige dinozavri")
+# elif num < 10:
+#     print("ver moige samwuxarod")
+# elif num != 2:
+#     print("kidev scade")
+# elif num != 3:
+#     print("kidev erti shansi gakvs")
+# else:
+#     print("sxvadros scade")
