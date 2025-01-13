@@ -1,0 +1,1 @@
+# მხოლოდ Sololearn და Hackerrank მქონდა აქ:
