@@ -9,5 +9,3 @@ def bmi(height,weight):
         return "Overweight"
     elif bm_calculate > 30:
         return "Obese"
-
-print(bmi(20,10))
